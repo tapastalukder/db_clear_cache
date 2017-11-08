@@ -1,0 +1,12 @@
+name = DB Clear Cache of drupal Cache
+package = cache
+description = DB Clear Cache of urls of drupal Cache.
+configure = admin/config/development/db_clear_cache_form
+
+version = "7.x-1"
+core = "7.x"
+project = "db_clear_cache"
+datestamp = "1353872502"
+tapas.cse.talukder@gmail.com
+
+
